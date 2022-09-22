@@ -11,8 +11,8 @@ import math
 def main():
     print("For a circle that has a radius of 15 mm")
     print("")
-    print("The area of the circle is {:.2f}mm^2".format(math.pi*15**2))
-    print("The circumference of the circle is {:.2f}mm".format(2*math.pi*15))
+    print("The area of the circle is {:.2f}mm^2".format(math.pi * 15**2))
+    print("The circumference of the circle is {:.2f}mm".format(2 * math.pi * 15))
 
 
 if __name__ == "__main__":
